@@ -41,6 +41,6 @@
 |<a href="https://github.com/leon196/SIGExam/blob/77033dfe1afae9c99796c6a41609617a894ca253/Assets/shaders/raymarching.shader#L74">Sphere</a>|<a href="https://github.com/leon196/SIGExam/blob/77033dfe1afae9c99796c6a41609617a894ca253/Assets/shaders/raymarching.shader#L78">Sphere Repeat</a>|<a href="https://github.com/leon196/SIGExam/blob/77033dfe1afae9c99796c6a41609617a894ca253/Assets/shaders/raymarching.shader#L33">Pyramid</a>|
 |---|---|---|
 |<a href="https://github.com/leon196/SIGExam/blob/77033dfe1afae9c99796c6a41609617a894ca253/Assets/shaders/raymarching.shader#L83">Polar Modulo</a>|<a href="https://github.com/leon196/SIGExam/blob/77033dfe1afae9c99796c6a41609617a894ca253/Assets/shaders/raymarching.shader#L89">Tube Twist</a>|<a href="https://github.com/leon196/SIGExam/blob/77033dfe1afae9c99796c6a41609617a894ca253/Assets/shaders/raymarching.shader#L96">Tube Web</a>|
-|<a href="https://github.com/leon196/SIGExam/blob/77033dfe1afae9c99796c6a41609617a894ca253/Assets/shaders/raymarching.shader#L105">Cloud</a>|<a href="https://www.shadertoy.com/view/lssfWB">Strangler Fig</a>|Kirby (*soon*)|  
+|<a href="https://github.com/leon196/SIGExam/blob/77033dfe1afae9c99796c6a41609617a894ca253/Assets/shaders/raymarching.shader#L105">Cloud</a>|<a href="https://www.shadertoy.com/view/lssfWB">Strangler Fig</a>|<a href="https://www.shadertoy.com/view/lt2Bz3">Kirby</a>|  
 
 <img src="images/5.png">
